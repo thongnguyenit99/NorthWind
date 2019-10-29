@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Northwind\Northwind\bin\Debug\Northwind.exe.config
+C:\Users\Admin\Desktop\Northwind\Northwind\bin\Debug\Northwind.exe
+C:\Users\Admin\Desktop\Northwind\Northwind\bin\Debug\Northwind.pdb
+C:\Users\Admin\Desktop\Northwind\Northwind\obj\Debug\Northwind.Form1.resources
+C:\Users\Admin\Desktop\Northwind\Northwind\obj\Debug\Northwind.Properties.Resources.resources
+C:\Users\Admin\Desktop\Northwind\Northwind\obj\Debug\Northwind.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Northwind\Northwind\obj\Debug\Northwind.exe
+C:\Users\Admin\Desktop\Northwind\Northwind\obj\Debug\Northwind.pdb
+C:\Users\Admin\Desktop\Northwind\Northwind\obj\Debug\Northwind.csprojResolveAssemblyReference.cache
